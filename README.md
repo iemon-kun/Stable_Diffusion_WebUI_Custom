@@ -1,1 +1,2 @@
 # Stable_Diffusion_WebUI_Custom
+日本語化パッチ、ControlNet、モデル、VAEの入手を工程に含んだStableDiffusionWenUIをgooglecolabで使用するためのファイルです。
